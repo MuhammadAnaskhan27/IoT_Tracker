@@ -1,0 +1,9 @@
+.container-bg {
+  background-image: url("../../assets/servicebanner.png");
+  background-size: cover;
+}
+.greater-than::before {
+  content: ">";
+  font-size: 20px;
+  color: #000; /* Change color as needed */
+}
